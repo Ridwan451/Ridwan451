@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ridwan Yusuf R
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, python, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me https://www.instagram.com/imrllytrdthsdyscks/
 
 <!---
 Ridwan451/Ridwan451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
